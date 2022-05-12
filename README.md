@@ -11,8 +11,11 @@ This will work for building REST, grpc or even your command line tools.
 
 Clone the repo and you will find the detailed instructions in the package containing in this template.
 
+Check [this](https://github.com/NishanthSpShetty/gmod) small tool to set this up for you :)
+
 ### Contribuition
 
 As this is a freezed template, not expecting any contributions, please star it will make me happy to continue doing the good work.
+
 
 
